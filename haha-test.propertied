@@ -1,1 +1,3 @@
-# haha
+haha=nihao  
+age=10
+spring.redis.nodes=10.9.17.172:6379
